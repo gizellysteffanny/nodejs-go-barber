@@ -1,0 +1,10 @@
+{
+  "name": "go-barber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gizelly Steffanny <gizellysteffanny@gmail.com> (https://gizellysteffanny.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
